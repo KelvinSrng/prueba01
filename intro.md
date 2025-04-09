@@ -1,5 +1,14 @@
 # Welcome to your Jupyter Book
 
+# Profile
+
+Kelvin Sneider Sarango Chalán
+
+- **Cedula:** 1900958172
+- **Telefono:** 0994407732
+- **Universidad:** Universidad Tecnica Particulara de Loja
+- **Carrera:** Computacion
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
